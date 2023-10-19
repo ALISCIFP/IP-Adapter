@@ -1,0 +1,11 @@
+data
+config.yaml
+adptplusoutput
+output
+multimodaloutput
+*.html
+QuantativeEval
+text
+.DS_Store
+Mini-DALLE3
+.idea
